@@ -17,7 +17,7 @@ entries:
         entries:
           - title: Coming soon
 
-  - title: all posts
+  - title: posts
     post_list:
       limit: 5
       show_more: true
