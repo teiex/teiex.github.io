@@ -4,7 +4,8 @@ author: Paulo Matheus # name of site's author
 url: teiex.org # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  Teiex is a acronym of "Technology Invention Experts". 
+  We believe that everyone deserves to benefit from the power of technology.
 
 permalink: /:slug.html
 
