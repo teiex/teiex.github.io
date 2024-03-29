@@ -26,10 +26,19 @@ entries:
 
   - title: posts by category - software development
     post_list:
-      category: example2
+      category: software development
+      limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: software-development-archive.html
+
+  - title: posts by category - game development
+    post_list:
+      category: game development
+      limit: 3
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: game-development-archive.html
 
 #  - title: rss
 #    url: feed.xml
