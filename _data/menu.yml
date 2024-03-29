@@ -10,7 +10,7 @@ entries:
           Learn more about our work and get involved.
       - title: Open source projects
         entries:
-          - title: teiex.org website
+          - title: teiex.org website repository
             url: https://github.com/teiex/teiex.github.io
           - title: Duty Roster Report (Coming soon)
       - title: Social technology initiatives
