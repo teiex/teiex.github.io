@@ -4,7 +4,10 @@
 entries:
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: >
+          Explore our Open Source projects and social technology initiatives. 
+          We offer a variety of projects and programs that are designed to make a positive impact on the world. 
+          Learn more about our work and get involved.
       - title: github repo
         url: https://github.com/riggraz/no-style-please
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
