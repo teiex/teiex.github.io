@@ -32,7 +32,7 @@ entries:
       show_more_url: example2-archive.html
 
 #  - title: rss
-    url: feed.xml
+#    url: feed.xml
   
   - title: another list
     entries:
