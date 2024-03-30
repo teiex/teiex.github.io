@@ -8,7 +8,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/teiex/
 
 ## Development
 
-First of all, you need to download <a href="https://jekyllrb.com/docs/installation/">Jekyll</a>. After, download this repository, or clone it via <b>https</b> or <b>ssh</b>.
+First of all, you need to install <a href="https://jekyllrb.com/docs/installation/">Jekyll</a>. After, download this repository, or clone it via <b>https</b> or <b>ssh</b>.
 
 On the root directory of the project, on your machine, you can do the following steps, according to the official README of the theme "no style, please":
 
